@@ -33,6 +33,7 @@ To develop a C program using the static storage class in a function with a param
 ### Step 8:
   Stop
 # Program:
+```
 #include <stdio.h>
 void displayIncrement(int n)
 {
@@ -54,7 +55,7 @@ int main()
     scanf("%d", &input);
     displayIncrement(input);
     }
-  
+  ```
 # Output:
 <img width="442" height="267" alt="image" src="https://github.com/user-attachments/assets/4c2bfa6d-b4a6-4485-8cf2-473300b616f9" />
 
@@ -103,6 +104,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11:
   Stop
 # Program:
+```
 #include <stdio.h>
 int add(int a, int b) { return a + b; }
 int subtract(int a, int b) { return a - b; }
@@ -145,6 +147,7 @@ int main()
 
     return 0;
 }
+```
 # Output:
 <img width="421" height="442" alt="image" src="https://github.com/user-attachments/assets/5aa412f5-eb2c-4be7-bd27-ed0654d30149" />
 
@@ -191,6 +194,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+```
 #include <stdio.h>
 #include <string.h>
 struct Employee
@@ -233,6 +237,7 @@ int main()
 
     return 0;
 }
+```
 # Output:
 <img width="620" height="637" alt="image" src="https://github.com/user-attachments/assets/c1d414cd-f830-4142-aceb-83b105917aa5" />
 
@@ -278,6 +283,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 9:
   Stop
 # Program:
+```
 #include <stdio.h>
 struct Date {
     int day;
@@ -312,6 +318,7 @@ int main() {
 
     return 0;
 }
+```
 # Output:
 <img width="467" height="292" alt="image" src="https://github.com/user-attachments/assets/fa7969b7-d178-4e4f-8ed3-e946b61b9451" />
 
@@ -351,6 +358,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+```
 #include <stdio.h>
 union Data
 {
@@ -370,6 +378,7 @@ int main()
 
     return 0;
 }
+```
 # Output:
 <img width="471" height="397" alt="image" src="https://github.com/user-attachments/assets/9070478c-7e40-4ba1-8746-759730066baf" />
 
